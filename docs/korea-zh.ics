@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//korea-holidays-zh//Chinese Korean Holidays//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:韩国放假日（中文）
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+X-WR-CALDESC:韩国全国公休日与补假；中文显示，不与中国
+ 大陆去重。只列假日，不列普通周末。不设提醒。资料
+ 来自按官方月历整理的第三方开源数据。
+BEGIN:VEVENT
+UID:kr-20260101@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:韩国·元旦
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260216@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:韩国·春节假期（除夕）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260217@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:韩国·春节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260218@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:韩国·春节假期（次日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260301@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:韩国·三一节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260302@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:韩国·三一节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260501@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:韩国·劳动节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260505@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:韩国·儿童节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260524@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:韩国·佛诞节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260525@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:韩国·佛诞节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260603@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:韩国·全国地方选举日
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260606@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:韩国·显忠日
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260717@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:韩国·制宪节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260815@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:韩国·光复节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260817@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:韩国·光复节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260924@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:韩国·中秋假期（前日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260925@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:韩国·中秋节（秋夕）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20260926@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:韩国·中秋假期（次日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20261003@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:韩国·开天节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20261005@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:韩国·开天节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20261009@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:韩国·韩文日
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20261225@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:韩国·圣诞节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270101@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:韩国·元旦
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270206@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:韩国·春节假期（除夕）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270207@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:韩国·春节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270208@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:韩国·春节假期（次日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270209@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:韩国·春节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270301@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:韩国·三一节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270501@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:韩国·劳动节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270503@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:韩国·劳动节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270505@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:韩国·儿童节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270513@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:韩国·佛诞节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270606@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:韩国·显忠日
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270717@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:韩国·制宪节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270719@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:韩国·制宪节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270815@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:韩国·光复节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270816@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:韩国·光复节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270914@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:韩国·中秋假期（前日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270915@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:韩国·中秋节（秋夕）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20270916@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:韩国·中秋假期（次日）
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271003@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:韩国·开天节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271004@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:韩国·开天节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271009@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:韩国·韩文日
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271011@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:韩国·韩文日补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271225@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:韩国·圣诞节
+DESCRIPTION:韩国全国公休日（放假）。\n不与中国大陆节日
+ 去重；普通周末不另列。\n数据源：hyunbinseo/holidays-kr，
+ 按韩国官方月历资料整理。\n临时假日和法规调整在上游
+ 收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kr-20271227@korea-holidays-zh
+DTSTAMP:20261007T072022Z
+CREATED:20261007T072022Z
+LAST-MODIFIED:20261007T072022Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:韩国·圣诞节补假
+DESCRIPTION:韩国全国公休日（放假）。补假是额外休息日，
+ 不是周末补班。\n不与中国大陆节日去重；普通周末不另
+ 列。\n数据源：hyunbinseo/holidays-kr，按韩国官方月历资料
+ 整理。\n临时假日和法规调整在上游收录后同步。
+URL:https://github.com/hyunbinseo/holidays-kr
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+{
+  "last_successful_fetch": "2026-10-07T07:20:22+00:00",
+  "source_project": "https://github.com/hyunbinseo/holidays-kr",
+  "source_url": "https://raw.githubusercontent.com/hyunbinseo/holidays-kr/main/public/basic.json",
+  "mode": "live",
+  "years": [
+    2026,
+    2027
+  ],
+  "holiday_dates": 46
+}
